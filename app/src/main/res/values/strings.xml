@@ -1,0 +1,23 @@
+<!-- Aight i think okay na to sana-->
+<resources>
+
+    <string name="app_name">Art Space</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+
+    <string name="artwork1_title">Mona Lisa</string>
+    <string name="artwork1_artist">Leonardo da Vinci (c. 1503–1506)</string>
+
+    <string name="artwork2_title">Girl with a Pearl Earring</string>
+    <string name="artwork2_artist">Johannes Vermeer (c. 1665)</string>
+
+    <string name="artwork3_title">The Creation of Adam</string>
+    <string name="artwork3_artist">Michelangelo (1508–1512)</string>
+
+    <string name="artwork4_title">The Scream</string>
+    <string name="artwork4_artist">Edvard Munch (1893)</string>
+
+    <string name="artwork5_title">The Starry Night</string>
+    <string name="artwork5_artist">Vincent van Gogh (1889)</string>
+
+</resources>
